@@ -1,4 +1,5 @@
-### Hi there 👋 I'm SeungDeok Kim ![Profile views](https://gpvc.arturio.dev/kimseungdeok&color=dc143c)
+### Hi there 👋 I'm SeungDeok Kim ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseungdeok&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
