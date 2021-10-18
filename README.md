@@ -1,4 +1,4 @@
-### Hi there 👋 I'm SeungDeok Kim ![](https://komarev.com/ghpvc/?username=kimseungdeok&color=ff69b4)
+### Hi there 👋 I'm SeungDeok Kim 
 
 ---
 
