@@ -15,8 +15,9 @@
 
 - 👨‍💻 I’m currently learning React Native
 - 📫 Reach me: tmdejr1117@gmail.com
+- 📝 Blog : https://velog.io/@tmdejr1117
 
-### Skills
+### 🛠️ Skills
 
 #### Front-End
 
