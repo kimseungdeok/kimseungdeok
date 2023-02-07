@@ -15,7 +15,7 @@
 
 - 👨‍💻 I’m currently learning React Native
 - 📫 Reach me: tmdejr1117@gmail.com
-- 📝 Blog : https://velog.io/@tmdejr1117
+- 📝 Blog : [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@tmdejr1117)](https://velog.io/@tmdejr1117)
 
 
 
