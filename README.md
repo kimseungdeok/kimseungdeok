@@ -140,7 +140,8 @@
       height="40"
     />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+ 
+  <a href="https://aws.amazon.com/ko/s3/" target="_blank" rel="noreferrer">
     <img
       src="./assets/Amazon-S3-Logo.svg.png"
       alt="aws"
@@ -148,7 +149,7 @@
       height="40"
     />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/ko/cloudfront/" target="_blank" rel="noreferrer">
     <img
       src="./assets/amazon-cloudfront.png"
       alt="aws"
