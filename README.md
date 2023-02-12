@@ -13,9 +13,10 @@
 
 ### 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently learning React Native
+- 👨‍💻 I’m currently learning **React Native**
+- 👀 I’m interested in **Svelte, Framer**
 - 📫 Reach me: tmdejr1117@gmail.com
-- 📝 Blog : https://velog.io/@tmdejr1117
+
 
 ### 🛠️ Skills
 
@@ -139,7 +140,8 @@
       height="40"
     />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+ 
+  <a href="https://aws.amazon.com/ko/s3/" target="_blank" rel="noreferrer">
     <img
       src="./assets/Amazon-S3-Logo.svg.png"
       alt="aws"
@@ -147,7 +149,7 @@
       height="40"
     />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/ko/cloudfront/" target="_blank" rel="noreferrer">
     <img
       src="./assets/amazon-cloudfront.png"
       alt="aws"
@@ -158,7 +160,7 @@
 
 #### Collaboration & Design & Document
 
-<a href="https://www.github.com/kimseungdeok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/kimseungdeok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -169,8 +171,8 @@
 </a>
 <a href="https://www.figma.com/" target="\_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-    width="36"
-    height="36"
+    width="40"
+    height="40"
     alt="Figma"
 /></a>
 <a
@@ -199,9 +201,7 @@ rel="noreferrer"> <img
   </a>
   </p>
 
-### Badges
-
-#### Github Stats
+### 🏆 Badges
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseungdeok&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
