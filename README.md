@@ -134,13 +134,13 @@
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="./assets/aws-logo.png"
       alt="aws"
       width="40"
       height="40"
+      object-fit="cover";
     />
   </a>
- 
   <a href="https://aws.amazon.com/ko/s3/" target="_blank" rel="noreferrer">
     <img
       src="./assets/Amazon-S3-Logo.svg.png"
