@@ -91,7 +91,7 @@
       src="./assets/bootstrap-logo.png"
       alt="bootstrap"
       width="40"
-      height="40"
+
     />
   </a>
 </p>
