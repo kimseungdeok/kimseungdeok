@@ -91,6 +91,7 @@
       src="./assets/bootstrap-logo.png"
       alt="bootstrap"
       width="40"
+      height="40"
     />
   </a>
 </p>
@@ -153,6 +154,7 @@
       src="./assets/amazon-cloudfront.png"
       alt="aws"
       width="40"
+      height="40"
     />
   </a>
 
