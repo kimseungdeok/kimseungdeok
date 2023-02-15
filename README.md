@@ -17,7 +17,6 @@
 - 👀 I’m interested in **Svelte, Framer**
 - 📫 Reach me: tmdejr1117@gmail.com
 
-
 ### 🛠️ Skills
 
 #### Front-End
@@ -160,7 +159,10 @@
 
 #### Collaboration & Design & Document
 
-<a href="https://www.github.com/kimseungdeok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a>
+<a href="https://www.github.com/kimseungdeok" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="github" width="40" height="40" />
+<img src="./assets/github-logo-dark_mode.png" alt="github (Dark Mode)" width="40" height="40" />
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
