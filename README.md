@@ -13,7 +13,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently learning **React Native**
+- 👨‍💻 I’m currently learning **React**
 - 👀 I’m interested in **Svelte, Framer**
 - 📫 Reach me: tmdejr1117@gmail.com
 
