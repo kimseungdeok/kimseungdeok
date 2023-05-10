@@ -13,10 +13,9 @@
 
 ### 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently learning **React**
-- 👀 I’m interested in **Svelte, Framer**
-- 📫 Reach me: tmdejr1117@gmail.com
-
+-   👨‍💻 I’m currently learning **React**
+-   👀 I’m interested in **Svelte, Framer**
+-   📫 Reach me: tmdejr1117@gmail.com
 
 ### 🛠️ Skills
 
@@ -160,6 +159,9 @@
 
 #### Collaboration & Design & Document
 
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+<img src="./assets/Notion-logo.svg.png" alt="notion" width="40" height="40" />
+</a>
 <a href="https://www.github.com/kimseungdeok" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
 </a>
@@ -185,9 +187,6 @@ rel="noreferrer"> <img
   alt="xd"
   width="40"
   height="40"/>
-</a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-<img src="./assets/Notion-logo.svg.png" alt="notion" width="40" height="40" />
 </a>
 
 #### Others
