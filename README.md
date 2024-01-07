@@ -56,14 +56,7 @@
       height="36"
       alt="CSS3"
   /></a>
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/pug.svg"
-      alt="pug"
-      width="40"
-      height="40"
-    />
-  </a>
+    
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
@@ -179,15 +172,7 @@
     height="40"
     alt="Figma"
 /></a>
-<a
-href="https://www.adobe.com/products/xd.html"
-target="\_blank"
-rel="noreferrer"> <img
-  src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-  alt="xd"
-  width="40"
-  height="40"/>
-</a>
+
 
 #### Others
 
