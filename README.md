@@ -56,13 +56,6 @@
       height="36"
       alt="CSS3"
   /></a>
-   <a href="https://nextjs.org" target="_blank" rel="noreferrer"
-    ><img
-      src="./assets/nextjs-small.png"
-      width="36"
-      height="36"
-      alt="NextJS"
-  /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
@@ -92,6 +85,13 @@
       height="40"
     />
   </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"
+    ><img
+      src="./assets/nextjs-small.png"
+      width="36"
+      height="36"
+      alt="NextJS"
+  /></a>
 </p>
 
 #### Back-End
