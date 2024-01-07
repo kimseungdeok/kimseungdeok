@@ -58,8 +58,8 @@
   /></a>
    <a href="https://nextjs.org" target="_blank" rel="noreferrer"
     ><img
-      src="./assets/Nextjs-logo.svg.png"
-      width=""
+      src="./assets/nextjs-small.png"
+      width="36"
       height="36"
       alt="NextJS"
   /></a>
