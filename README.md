@@ -56,7 +56,6 @@
       height="36"
       alt="CSS3"
   /></a>
-    
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
