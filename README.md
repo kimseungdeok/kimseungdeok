@@ -101,8 +101,7 @@
   width="36"
   height="36"
   alt="NodeJS"
-/>
-</a>
+/></a>
 <a href="https://www.python.org/" target="\_blank" rel="noreferrer"> 
 <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
@@ -116,16 +115,14 @@
       alt="flask"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/mongodb-logo.png"
       alt="mongodb"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
 
 #### DevOps
 
@@ -136,41 +133,35 @@
       width="40"
       height="40"
       object-fit="cover";
-    />
-  </a>
+    /></a>
   <a href="https://aws.amazon.com/ko/s3/" target="_blank" rel="noreferrer">
     <img
       src="./assets/Amazon-S3-Logo.svg.png"
       alt="aws"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   <a href="https://aws.amazon.com/ko/cloudfront/" target="_blank" rel="noreferrer">
     <img
       src="./assets/amazon-cloudfront.png"
       alt="aws"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
 
 #### Collaboration & Design & Document
 
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-<img src="./assets/Notion-logo.svg.png" alt="notion" width="40" height="40" />
-</a>
+<img src="./assets/Notion-logo.svg.png" alt="notion" width="40" height="40" /></a>
 <a href="https://www.github.com/kimseungdeok" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
-</a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="git"
     width="40"
     height="40"
-  />
-</a>
+  /></a>
 <a href="https://www.figma.com/" target="\_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
     width="40"
@@ -187,8 +178,7 @@
       alt="arduino"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   </p>
 
 ### 🏆 Badges
