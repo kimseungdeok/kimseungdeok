@@ -83,8 +83,7 @@
       alt="bootstrap"
       width="40"
       height="40"
-    />
-  </a>
+    /></a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"
     ><img
       src="./assets/nextjs-small.png"
