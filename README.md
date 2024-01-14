@@ -13,8 +13,8 @@
 
 ### 🙋‍♂️ About Me
 
--   👨‍💻 I’m currently learning **React**
--   👀 I’m interested in **Svelte, Framer**
+-   👨‍💻 I’m currently learning **React, Next.js**
+-   👀 I’m interested in **Next.js**
 -   📫 Reach me: tmdejr1117@gmail.com
 
 ### 🛠️ Skills
